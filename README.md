@@ -21,5 +21,5 @@ Among the benefits of implementing a self-hosted (on-premises) IAM solution, we 
 • Allows full control over security policies, making it easier to comply with strict regulations (e.g., GDPR, HIPAA, SOC 2).
 • Allows customized authentication and authorization features.
 
-~Asmae~
+Asmae.
 
