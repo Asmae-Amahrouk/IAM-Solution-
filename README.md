@@ -10,16 +10,16 @@ Tools Used :
 
 Project scope :
 The objective of this project is to design and implement a scalable, self￾hosted IAM solution that:
-• Provides authentication and authorization services.
-• Manages user identities and access policies.
-• Integrates with various applications and services.
-• Implements Zero Trust security principles.
-• Monitors and detects security threats.
+- Provides authentication and authorization services.
+- Manages user identities and access policies.
+- Integrates with various applications and services.
+- Implements Zero Trust security principles.
+- Monitors and detects security threats.
 
 Among the benefits of implementing a self-hosted (on-premises) IAM solution, we mention: 
-• Offers complete control over security policies, configurations, and integrations. You can customize it extensively to meet specific business or compliance needs.
-• Allows full control over security policies, making it easier to comply with strict regulations (e.g., GDPR, HIPAA, SOC 2).
-• Allows customized authentication and authorization features.
+- Offers complete control over security policies, configurations, and integrations. You can customize it extensively to meet specific business or compliance needs.
+- Allows full control over security policies, making it easier to comply with strict regulations (e.g., GDPR, HIPAA, SOC 2).
+- Allows customized authentication and authorization features.
 
 Asmae.
 
